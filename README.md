@@ -10,7 +10,7 @@
   - 전처리 및 OCR 모델
   - DB 구축
   - Server 구현(Flask)
-- **[📱 Android 구현](https://github.com/yujapie/ElectricityMeterOCR) 👈Repository 이동**
+- **[📱 Android 구현](https://github.com/Jihun-Dong/ElectricityMeterOCR) 👈Repository 이동**
 
 - **✨ 애플리케이션 실행영상**
 
@@ -150,7 +150,7 @@ https://user-images.githubusercontent.com/58774664/136685783-69435e2e-8580-4254-
 
 
 
-# [📱Android 구현](https://github.com/yujapie/ElectricityMeterOCR) 👈Repository 이동
+# [📱Android 구현](https://github.com/Jihun-Dong/ElectricityMeterOCR) 👈Repository 이동
 
 ## 1.Flow Chart
 
